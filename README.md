@@ -96,6 +96,8 @@ Tools for building and extending MCP capabilities.
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📱 - Integration between Genkit and MCP
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChain integration for MCP tools
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏃 - Go SDK for MCP development
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) 🐍 ☁️ - Open-source Claude Code plugin providing SEO and Google Ads skills. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### Integration Tools 🔧
 Specialized tools for specific platforms and use cases.

@@ -88,6 +88,11 @@ Track application performance and errors.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Error tracking via Sentry.io
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📱 ☁️ - Crash reporting through Raygun
 
+### Marketing & Advertising 📣
+Manage and optimize SEO, search, and paid advertising campaigns.
+
+- [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) 📱 ☁️ - Open-source Claude Code skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads); connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars, MIT)
+
 ## Development Tools
 
 ### Frameworks 🛠️
